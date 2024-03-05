@@ -1,0 +1,7 @@
+/.debhelper
+/debhelper-build-stamp
+/files
+/rtl8852bu*/
+/*.debhelper.log
+/*.debhelper
+/*.substvars

@@ -1,0 +1,11 @@
+diff --git a/src/dkms.conf b/src/dkms.conf
+index 53f8116..ff464de 100644
+--- a/src/dkms.conf
++++ b/src/dkms.conf
+@@ -1,5 +1,5 @@
+ PACKAGE_NAME="rtl8852bu"
+-PACKAGE_VERSION="1.19.3"
++PACKAGE_VERSION="#MODULE_VERSION#"
+ BUILT_MODULE_NAME[0]="8852bu"
+ MAKE="kernelver=$kernelver ./dkms-make.sh"
+ CLEAN="'make' clean"

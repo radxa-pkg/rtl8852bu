@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+
+src/* usr/src/rtl8852bu-${DEB_VERSION}/
