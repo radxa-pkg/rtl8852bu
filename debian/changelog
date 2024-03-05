@@ -1,3 +1,10 @@
+rtl8852bu (1.19.3-45-g7583a804a.20230505-1) stable; urgency=medium
+
+  [ ZHANG Yuntian ]
+  * Init with 1.19.3-45-g7583a804a.20230505
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 05 Mar 2024 16:03:13 +0800
+
 8852bu (1.15.7.112-3) stable; urgency=medium
 
   [ dependabot[bot] ]
